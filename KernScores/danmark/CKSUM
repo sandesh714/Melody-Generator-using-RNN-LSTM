@@ -1,0 +1,33 @@
+CHEKSUMS for files from /essen/europa/danmark
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 03:57:24 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/danmark
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+3830822453 643 danmark1.krn
+1257015958 782 danmark2.krn
+2004311664 811 danmark3.krn
+861531018 674 danmark4.krn
+2963646182 757 danmark5.krn
+2801369609 771 danmark6.krn
+1192843542 597 danmark7.krn
+2094648013 699 danmark8.krn
+2605303556 758 danmark9.krn

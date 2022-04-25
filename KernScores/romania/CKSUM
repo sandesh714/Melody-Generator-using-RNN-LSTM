@@ -1,0 +1,52 @@
+CHEKSUMS for files from /essen/europa/romania
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 04:02:48 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/romania
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+1006903524 608 romani01.krn
+1777797925 586 romani02.krn
+3210278114 602 romani03.krn
+832933763 772 romani04.krn
+1987744340 641 romani05.krn
+3087148237 630 romani06.krn
+1687268197 824 romani07.krn
+2242194079 747 romani08.krn
+1756021577 714 romani09.krn
+123615325 603 romani10.krn
+2219732014 703 romani11.krn
+2866860420 649 romani12.krn
+4018836042 668 romani13.krn
+2732450814 659 romani14.krn
+3064712107 668 romani15.krn
+492205528 587 romani16.krn
+4002405110 687 romani17.krn
+2279638059 601 romani18.krn
+755324785 712 romani19.krn
+241521832 658 romani20.krn
+2173425831 554 romani21.krn
+3567413779 786 romani22.krn
+1859940758 634 romani23.krn
+3950999826 686 romani24.krn
+1789851334 664 romani25.krn
+4068596191 832 romani26.krn
+4138904143 692 romani27.krn
+1615785615 825 romani28.krn

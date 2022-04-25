@@ -1,0 +1,69 @@
+CHEKSUMS for files from /essen/europa/magyar
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 04:01:19 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/magyar
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+3305137828 548 magyar01.krn
+3958807595 842 magyar02.krn
+3651773127 776 magyar03.krn
+113349873 648 magyar04.krn
+91854543 679 magyar05.krn
+4110551974 693 magyar06.krn
+3515109123 762 magyar07.krn
+886393326 625 magyar08.krn
+536042733 727 magyar09.krn
+3383188406 713 magyar10.krn
+3024172577 547 magyar11.krn
+3857644083 508 magyar12.krn
+628652545 550 magyar13.krn
+1672424 559 magyar14.krn
+3379477971 508 magyar15.krn
+1998580644 602 magyar16.krn
+1385220799 673 magyar17.krn
+2842884312 583 magyar18.krn
+1865057303 514 magyar19.krn
+48830117 491 magyar20.krn
+1578878132 637 magyar21.krn
+3138150932 579 magyar22.krn
+3835427807 561 magyar23.krn
+1219720911 533 magyar24.krn
+941803860 592 magyar25.krn
+2682585485 570 magyar26.krn
+1447858777 510 magyar27.krn
+3684293768 877 magyar28.krn
+2794914729 730 magyar29.krn
+383249340 661 magyar30.krn
+627788135 660 magyar31.krn
+3020876799 747 magyar32.krn
+1407966672 856 magyar33.krn
+4269634512 645 magyar34.krn
+887910822 684 magyar35.krn
+368084615 716 magyar36.krn
+3949797428 621 magyar37.krn
+912257421 619 magyar38.krn
+2179840648 722 magyar39.krn
+2041384571 636 magyar40.krn
+1016923633 692 magyar41.krn
+4243843198 775 magyar42.krn
+2595494909 657 magyar43.krn
+200336644 690 magyar44.krn
+660999150 875 magyar45.krn

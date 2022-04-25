@@ -1,0 +1,32 @@
+CHEKSUMS for files from /essen/europa/italia
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 03:59:00 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/italia
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+122179541 626 italia01.krn
+1641394333 564 italia02.krn
+1741427481 569 italia03.krn
+3043859513 575 italia04.krn
+2333479808 653 italia05.krn
+2606760224 629 italia06.krn
+3915091902 644 italia07.krn
+2610126449 775 italia08.krn

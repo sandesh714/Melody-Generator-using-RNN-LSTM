@@ -1,0 +1,95 @@
+CHEKSUMS for files from /essen/europa/lothring
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 04:00:33 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/lothring
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+4064337023 538 lothr001.krn
+3792008881 649 lothr002.krn
+2370415485 561 lothr003.krn
+2980110223 850 lothr004.krn
+2159637404 588 lothr005.krn
+2964568585 589 lothr006.krn
+4205399675 568 lothr007.krn
+2001488388 671 lothr008.krn
+3361247734 610 lothr009.krn
+1776879183 632 lothr010.krn
+2574596201 797 lothr011.krn
+1618409098 756 lothr012.krn
+1633023749 771 lothr013.krn
+1387146711 574 lothr014.krn
+2534367656 589 lothr015.krn
+2576815108 651 lothr016.krn
+4163419934 615 lothr017.krn
+1464616162 594 lothr018.krn
+392603649 586 lothr019.krn
+3117625882 704 lothr020.krn
+3791214852 797 lothr021.krn
+4184276085 632 lothr022.krn
+3776846243 639 lothr023.krn
+4017890563 596 lothr024.krn
+18378093 541 lothr025.krn
+996535964 759 lothr026.krn
+3239594405 699 lothr027.krn
+1590345344 649 lothr028.krn
+1808293796 799 lothr029.krn
+169108575 533 lothr030.krn
+2057561557 618 lothr031.krn
+63369112 667 lothr032.krn
+2921434974 564 lothr033.krn
+1312267644 810 lothr034.krn
+1540477743 582 lothr035.krn
+207017140 592 lothr036.krn
+1426819350 696 lothr037.krn
+4248719497 620 lothr038.krn
+2235964443 800 lothr039.krn
+266319943 637 lothr040.krn
+291371466 883 lothr041.krn
+4235232637 697 lothr042.krn
+902641142 709 lothr043.krn
+1511479087 525 lothr044.krn
+4093591479 725 lothr045.krn
+2822751280 641 lothr046.krn
+2698887766 767 lothr047.krn
+517885178 567 lothr048.krn
+1155016284 634 lothr049.krn
+684030356 738 lothr050.krn
+2842155750 685 lothr051.krn
+2845088589 586 lothr052.krn
+2728184470 720 lothr053.krn
+2662506937 793 lothr054.krn
+3504063813 631 lothr055.krn
+919523900 761 lothr056.krn
+907199256 587 lothr057.krn
+2933524205 551 lothr058.krn
+3758100305 513 lothr059.krn
+3094743103 668 lothr060.krn
+4090601817 630 lothr061.krn
+4066942652 652 lothr062.krn
+2750991506 567 lothr063.krn
+3621151810 520 lothr064.krn
+2975551570 559 lothr065.krn
+2262283709 695 lothr066.krn
+2346623489 516 lothr067.krn
+2923279287 544 lothr068.krn
+3828267707 623 lothr069.krn
+4075920163 673 lothr070.krn
+3932588811 828 lothr071.krn

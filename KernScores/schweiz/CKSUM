@@ -1,0 +1,117 @@
+CHEKSUMS for files from /essen/europa/schweiz
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 04:03:56 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/schweiz
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+1915606591 779 suisse01.krn
+4127757312 535 suisse02.krn
+3600608838 627 suisse03.krn
+2733965258 552 suisse04.krn
+1170858250 533 suisse05.krn
+3309080797 689 suisse06.krn
+373891444 518 suisse07.krn
+1537010482 594 suisse08.krn
+1874137034 575 suisse09.krn
+3272216387 482 suisse10.krn
+3632879070 603 suisse11.krn
+4130572741 690 suisse12.krn
+1768436151 484 suisse13.krn
+1203975619 538 suisse14.krn
+2639332743 884 suisse15.krn
+1612259779 647 suisse16.krn
+2688039596 950 suisse17.krn
+3139028622 497 suisse18.krn
+2106219097 804 suisse19.krn
+1898405744 553 suisse20.krn
+2768069151 727 suisse21.krn
+1980791234 623 suisse22.krn
+255739837 1051 suisse23.krn
+231908215 558 suisse24.krn
+2624246841 976 suisse25.krn
+4269428421 754 suisse26.krn
+3740484037 784 suisse27.krn
+4264569739 653 suisse28.krn
+538961426 543 suisse29.krn
+3656645889 584 suisse30.krn
+2150067740 589 suisse31.krn
+923341515 675 suisse32.krn
+1852168272 528 suisse33.krn
+81169576 546 suisse34.krn
+1234918216 564 suisse35.krn
+695670139 795 suisse36.krn
+1328648679 539 suisse37.krn
+519370030 586 suisse38.krn
+1281328568 630 suisse39.krn
+901811875 551 suisse40.krn
+991592180 655 suisse41.krn
+1328096767 646 suisse42.krn
+624406854 672 suisse43.krn
+908784061 581 suisse44.krn
+1389952900 844 suisse45.krn
+2024808336 659 suisse46.krn
+1019996704 554 suisse47.krn
+3847053783 542 suisse48.krn
+2261133354 651 suisse49.krn
+1350604616 976 suisse50.krn
+4183038507 725 suisse51.krn
+3172265324 646 suisse52.krn
+3966588493 632 suisse53.krn
+4281460050 824 suisse54.krn
+1317047570 752 suisse55.krn
+2282360740 622 suisse56.krn
+1050023024 586 suisse57.krn
+2830761321 692 suisse58.krn
+412064453 632 suisse59.krn
+793022446 674 suisse60.krn
+1404729296 973 suisse61.krn
+2958891779 615 suisse62.krn
+760286759 640 suisse63.krn
+1223702333 708 suisse64.krn
+1392828783 729 suisse65.krn
+1731991591 718 suisse66.krn
+3382242497 582 suisse67.krn
+1173069475 708 suisse68.krn
+3957801521 653 suisse69.krn
+1652079008 601 suisse70.krn
+3044498121 625 suisse71.krn
+3857694243 511 suisse72.krn
+928938004 517 suisse73.krn
+3968320020 595 suisse74.krn
+1614253415 592 suisse75.krn
+3914409378 558 suisse76.krn
+1182803868 531 suisse77.krn
+1413805961 514 suisse78.krn
+298530629 672 suisse79.krn
+2081216234 574 suisse80.krn
+2836443471 708 suisse81.krn
+1197441783 679 suisse82.krn
+4125831589 624 suisse83.krn
+382379448 1128 suisse84.krn
+2343048791 660 suisse85.krn
+476959895 680 suisse86.krn
+1888237142 635 suisse87.krn
+1768526971 652 suisse88.krn
+699481405 667 suisse89.krn
+519716917 820 suisse90.krn
+177073125 734 suisse91.krn
+80380595 722 suisse92.krn
+1018508712 715 suisse93.krn

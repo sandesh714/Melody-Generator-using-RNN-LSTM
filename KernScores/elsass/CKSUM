@@ -1,0 +1,115 @@
+CHEKSUMS for files from /essen/europa/elsass
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 03:57:59 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/elsass
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+845988379 522 elsass01.krn
+3722983485 629 elsass02.krn
+578343730 610 elsass03.krn
+156627756 549 elsass04.krn
+2458702790 586 elsass05.krn
+3982595555 572 elsass06.krn
+2979385151 622 elsass07.krn
+1950479339 509 elsass08.krn
+498281250 577 elsass09.krn
+1664696976 563 elsass10.krn
+180580705 560 elsass11.krn
+1061973640 750 elsass12.krn
+3312486273 770 elsass13.krn
+2001893499 512 elsass14.krn
+1802425100 762 elsass15.krn
+1869514400 570 elsass16.krn
+598058665 650 elsass17.krn
+2036744171 719 elsass18.krn
+1225400873 480 elsass19.krn
+3321575 484 elsass20.krn
+1527351382 654 elsass21.krn
+3396972451 559 elsass22.krn
+3686857509 476 elsass23.krn
+722932913 655 elsass24.krn
+3148659831 785 elsass25.krn
+1305192384 534 elsass26.krn
+3285585143 677 elsass27.krn
+3802794546 614 elsass28.krn
+2528002056 543 elsass29.krn
+148174112 672 elsass30.krn
+3342678833 692 elsass31.krn
+1283157206 753 elsass32.krn
+3140851400 708 elsass33.krn
+3002359709 648 elsass34.krn
+1665996198 655 elsass35.krn
+3561639599 544 elsass36.krn
+3437690696 597 elsass37.krn
+2436287482 652 elsass38.krn
+3949201299 580 elsass39.krn
+803515382 451 elsass40.krn
+2678845158 582 elsass41.krn
+1442176140 699 elsass42.krn
+1432243600 644 elsass43.krn
+1232886677 634 elsass44.krn
+2017665877 486 elsass45.krn
+2303729395 832 elsass46.krn
+2114963846 598 elsass47.krn
+3423208283 670 elsass48.krn
+1062884341 733 elsass49.krn
+2187258380 548 elsass50.krn
+4254760056 671 elsass51.krn
+181712421 903 elsass52.krn
+648685093 534 elsass53.krn
+173600841 883 elsass54.krn
+1376285656 609 elsass55.krn
+3543712401 629 elsass56.krn
+2396764713 712 elsass57.krn
+2846820361 604 elsass58.krn
+239732412 602 elsass59.krn
+3142901602 648 elsass60.krn
+797321057 759 elsass61.krn
+2789430385 707 elsass62.krn
+250109354 691 elsass63.krn
+1011275041 597 elsass64.krn
+2412584652 552 elsass65.krn
+1776428865 661 elsass66.krn
+483296326 518 elsass67.krn
+634417087 532 elsass68.krn
+147845014 781 elsass69.krn
+1710211904 698 elsass70.krn
+3815172970 498 elsass71.krn
+1098538011 585 elsass72.krn
+3172063431 502 elsass73.krn
+3189842127 489 elsass74.krn
+3311592245 569 elsass75.krn
+1259430579 486 elsass76.krn
+1237031879 495 elsass77.krn
+288357550 838 elsass78.krn
+3404733149 660 elsass79.krn
+4193510547 781 elsass80.krn
+56945808 589 elsass81.krn
+2518189107 710 elsass82.krn
+1715670158 669 elsass83.krn
+1778233465 612 elsass84.krn
+33544036 772 elsass85.krn
+1610428536 768 elsass86.krn
+2711669298 755 elsass87.krn
+506689383 787 elsass88.krn
+3060958655 560 elsass89.krn
+1230845947 533 elsass90.krn
+3962724779 535 elsass91.krn

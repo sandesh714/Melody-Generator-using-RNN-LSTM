@@ -1,0 +1,61 @@
+CHEKSUMS for files from /essen/europa/rossiya
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 04:03:29 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/rossiya
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+2246581144 681 rossiya1.krn
+2600343113 654 ussr01.krn
+1280821018 650 ussr02.krn
+2621241073 755 ussr03.krn
+902131982 516 ussr04.krn
+3541495858 576 ussr05.krn
+2329601742 575 ussr06.krn
+1480296461 816 ussr07.krn
+4182788591 587 ussr08.krn
+3161486718 564 ussr09.krn
+3864083748 625 ussr10.krn
+1494938073 614 ussr11.krn
+1125601568 590 ussr12.krn
+3042909421 662 ussr13.krn
+3790614511 615 ussr14.krn
+1515977066 617 ussr15.krn
+1715489850 579 ussr16.krn
+2670350768 591 ussr17.krn
+1122626308 570 ussr18.krn
+2751420615 507 ussr19.krn
+3563034361 518 ussr20.krn
+609198015 789 ussr21.krn
+73390291 580 ussr22.krn
+792639451 489 ussr23.krn
+399375954 681 ussr24.krn
+848416217 544 ussr25.krn
+3895340194 492 ussr26.krn
+3787254758 961 ussr27.krn
+1765275525 698 ussr28.krn
+3535643911 690 ussr29.krn
+3110803156 680 ussr30.krn
+3216015009 648 ussr31.krn
+3805288404 754 ussr32.krn
+3670672305 712 ussr33.krn
+2898758746 601 ussr34.krn
+1910891694 873 ussr35.krn
+737725858 627 ussr36.krn

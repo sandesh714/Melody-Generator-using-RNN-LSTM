@@ -1,0 +1,37 @@
+CHEKSUMS for files from /essen/europa/ukraina
+at https://kern.humdrum.org
+downloaded on Sat Apr 23 04:04:41 PDT 2022
+A current version of these files may be downloaded using the address:
+	https://kern.humdrum.org/data?f=zip&l=/essen/europa/ukraina
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+3867500865 774 ukrain01.krn
+3546730654 680 ukrain02.krn
+3561131314 594 ukrain03.krn
+1766398380 626 ukrain04.krn
+420378411 656 ukrain05.krn
+118778859 967 ukrain06.krn
+900930675 624 ukrain07.krn
+2120310651 590 ukrain08.krn
+2030047774 709 ukrain09.krn
+1439934629 735 ukrain10.krn
+1007861572 770 ukrain11.krn
+9720079 687 ukrain12.krn
+3440295721 658 ukrain13.krn
